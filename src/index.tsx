@@ -1,2 +1,2 @@
-export { IObject, IObjects, IDocument, IPrinter } from "./bpac.js";
+export { IObject, IObjects, IDocument, IPrinter, IsExtensionInstalled } from "./bpac.js";
 
