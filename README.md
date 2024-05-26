@@ -1,4 +1,4 @@
-# bpac-react
+# bpac-js
 
 JavaScript module for communicating with the Brother QL-series label printers.  
 Currently the module has no typings whatsoever, as the internal code is dug up from old Brother instructions (from when JScript was a thing!). Anyone brave enough to figure out all the one-letter variables inside is more than welcome to contribute.  
